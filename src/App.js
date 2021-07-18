@@ -4,7 +4,6 @@ function App() {
   return (
     <div className="App">
       Bomuthee Coming Soon Baby !
-        Testing page
     </div>
   );
 }
